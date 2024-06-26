@@ -17,7 +17,7 @@ y = df['Price']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.20, random_state = 42)
 
-# Models to be trained
+# Models to be trained.
 models = {
     'Linear Regression': LinearRegression(),
     'Decision Tree': DecisionTreeRegressor(random_state=42),
