@@ -1,4 +1,4 @@
-
+## AIRBNB PRICE PREDICTOR
 
 ## Git Repository
 https://github.com/linamps/IronHack-Final-Project.git
@@ -25,6 +25,9 @@ The project involves:
 - Data Preprocessing: Cleaning and transforming data for model training.
 - Model Selection: Comparing different machine learning algorithms to identify the best-performing model.
 - Model Evaluation: Assessing the model's performance using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² score.
+
+Data collection and preprocessing file: data_processing.py
+Model Selection and Model Evaluation file: model_selection_training.py
 
 # Technologies Used
 - Python (Programming Language)
